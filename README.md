@@ -1,5 +1,3 @@
-# Fullstack developer
-
 ## Part 1: Frontend
 
 Create a react application using vite and typescript.
