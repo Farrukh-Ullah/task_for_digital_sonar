@@ -21,8 +21,8 @@ This is a React application built using Vite and TypeScript. It has two pages:
 
 ### 1️⃣ **Clone the repository**
 ```sh
-git clone https://github.com/your-username/my-react-app.git
-cd my-react-app
+git clone https://github.com/your-username/my-react-app.git](https://github.com/Farrukh-Ullah/task_for_digital_sonar/tree/main/my-react-app
+cd my-react-app 
 
 2️⃣ Install dependencies
 npm install
